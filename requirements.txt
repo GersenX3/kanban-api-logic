@@ -2,7 +2,6 @@ flask
 flask_sqlalchemy
 psycopg2-binary
 flask-bcrypt
-flask-jwt-extended
 alembic
 flask-migrate
 flask_cors
